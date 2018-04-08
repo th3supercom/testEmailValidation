@@ -8,14 +8,15 @@
  */
 
 var email, validation, emailValidation;
-
+/*
 if(process.argv.length < 3)
 {
 	console.log('It was not specified the e-mail address for validation.');
 }
 else
 {
-	/*
+*/
+/*
 	 * Load the e-mail validation module
 	 */
 	emailValidation = require('./emailValidation');
@@ -79,4 +80,4 @@ else
 			}
 		}
 	});
-}
+//}
