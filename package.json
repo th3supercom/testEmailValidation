@@ -8,9 +8,7 @@
   "main": "testEmailValidation.js",
   "dependencies": {
     "dns": "latest",
-    "fs": "latest",
-    "request": "latest",
-    "valid-url": "latest"
+    "fs": "latest"
   },
   "devDependencies": {},
   "scripts": {
