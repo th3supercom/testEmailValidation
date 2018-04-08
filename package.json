@@ -1,0 +1,16 @@
+{
+  "name": "EmailValidation",
+  "engines": {
+    "node": "8.2.1"
+  },
+  "version": "1.0.0",
+  "description": "EmailValidation",
+  "main": "testEmailValidation.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --no-warnings testEmailValidation.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brahim Elasri",
+  "license": "Brahim El"
+}
