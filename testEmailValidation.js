@@ -53,7 +53,8 @@ else
 	 */
 	validation.timeout = 15;
 
-	var email = process.argv[2];
+	//var email = process.argv[2];
+        var email = 'c.sasia@free.fr';
 	validation.emailDomainsWhitelistFile = 'emaildomainswhitelist.csv';
 	validation.invalidEmailUsersFile = 'invalidemailusers.csv';
 	validation.invalidEmailDomainsFile = 'invalidemaildomains.csv';
