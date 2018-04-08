@@ -6,6 +6,12 @@
   "version": "1.0.0",
   "description": "EmailValidation",
   "main": "testEmailValidation.js",
+  "dependencies": {
+    "dns": "latest",
+    "fs": "latest",
+    "request": "latest",
+    "valid-url": "latest"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "node --no-warnings testEmailValidation.js",
