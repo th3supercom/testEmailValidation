@@ -30,7 +30,7 @@ else
 	/*
 	 * E-mail address of local user to simulate e-mail delivery
 	 */
-	validation.localAddress = 'localuser@localhost';
+	validation.localAddress = 'info@domain.com';
 
 	/*
 	 * Output debug information
